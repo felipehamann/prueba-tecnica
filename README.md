@@ -1,23 +1,24 @@
 # Prueba Técnica Backend
 
-Este repositorio contiene las soluciones a la prueba técnica solicitada. A continuación, se detalla cada uno de los puntos requeridos, junto con la explicación del código y las mejoras propuestas.
+Este repositorio contiene las soluciones a la prueba técnica solicitada. 
 
 ## Estructura del Proyecto
 
-- `index.js`: Contiene las soluciones de JavaScript.
-- `exampleFunction.js`: Función documentada y mejorada.
-- `exampleFunction2.ts`: Implementación en TypeScript de la función exampleFunction2.
-- `fetchData.js`: Solución al problema de la función `fetchData`.
-- `mongoOptimization.md`: Documento con la propuesta de optimización para la base de datos MongoDB.
-- `graphqlImplementation.md`: Documento con los pasos para implementar GraphQL en una arquitectura de microservicios.
+- pregunta 1: `differences.md`: Diferencias entre operadores &&, || y ??.
+- pregunta 2: `StringLength.js`: Contiene las soluciones de JavaScript.
+-  pregunta 3: `exampleFunction.js`: Función documentada y mejorada.
+- pregunta 4: `exampleFunction2.ts`: Implementación en TypeScript de la función exampleFunction2.
+- pregunta 5: `fetchData.js`: Solución al problema de la función `fetchData`.
+- pregunta 6: `mongoOptimization.md`: Documento con la propuesta de optimización para la base de datos MongoDB.
+- pregunta 7:`graphqlImplementation.md`: Documento con los pasos para implementar GraphQL en una arquitectura de microservicios.
 
 ## Soluciones
 
 ### 1. JavaScript: Diferencias entre `&&`, `||` y `??`
-Explicación de las diferencias entre los operadores lógicos `&&`, `||`, y el operador de coalición nula `??`.
+Explicación de las diferencias entre los operadores lógicos `&&`, `||`, y el operador de coalición nula `??`. `differences.md`
 
 ### 2. JavaScript: Función para encontrar el string más largo en un array
-Función en JavaScript que toma un array de strings y retorna el string más largo. La función se encuentra en el archivo `index.js`.
+Función en JavaScript que toma un array de strings y retorna el string más largo. La función se encuentra en el archivo `StringLength.js`.
 
 ### 3. JavaScript: Análisis y mejora de `exampleFunction`
 - **Documentación:** La función `exampleFunction` filtra los números pares de un array y luego duplica su valor.
@@ -42,4 +43,4 @@ Documento `graphqlImplementation.md` que describe los pasos para implementar un 
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/prueba-tecnica.git
+   git clone https://github.com/felipehamann/prueba-tecnica.git
