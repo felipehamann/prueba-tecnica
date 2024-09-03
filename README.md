@@ -42,4 +42,4 @@ Documento `graphqlImplementation.md` que describe los pasos para implementar un 
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/prueba-tecnica.git
+   git clone https://github.com/felipehamann/prueba-tecnica.git
