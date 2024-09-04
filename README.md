@@ -4,7 +4,7 @@ Este repositorio contiene las soluciones a la prueba técnica solicitada.
 
 ## Estructura del Proyecto
 
-- pregunta 1: `differences.md`: Diferencias entre operadores &&, || y ??.
+- pregunta 1: `diferencias.md`: Diferencias entre operadores &&, || y ??.
 - pregunta 2: `StringLength.js`: Contiene las soluciones de JavaScript.
 -  pregunta 3: `exampleFunction.js`: Función documentada y mejorada.
 - pregunta 4: `exampleFunction2.ts`: Implementación en TypeScript de la función exampleFunction2.
@@ -15,7 +15,7 @@ Este repositorio contiene las soluciones a la prueba técnica solicitada.
 ## Soluciones
 
 ### 1. JavaScript: Diferencias entre `&&`, `||` y `??`
-Explicación de las diferencias entre los operadores lógicos `&&`, `||`, y el operador de coalición nula `??`. `differences.md`
+Explicación de las diferencias entre los operadores lógicos `&&`, `||`, y el operador de coalición nula `??`. `diferencias.md`
 
 ### 2. JavaScript: Función para encontrar el string más largo en un array
 Función en JavaScript que toma un array de strings y retorna el string más largo. La función se encuentra en el archivo `StringLength.js`.
